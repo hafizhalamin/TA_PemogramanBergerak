@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="namabarang" type="id"></item>
+    <item name="namapelanggan" type="id"></item>
+    <item name="jumlahbeli" type="id"></item>
+    <item name="harga" type="id"></item>
+    <item name="uangbayar" type="id"></item>
+    <item name="tombol1" type="id"></item>
+    <item name="tombol2" type="id"></item>
+    <item name="tombol3" type="id"></item>
+    <item name="bonus" type="id"></item>
+    <item name="uangkembali" type="id"></item>
+    <item name="totalbelanja" type="id"></item>
+    <item name="keterangan" type="id"></item>
+</resources>
